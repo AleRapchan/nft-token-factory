@@ -6,7 +6,7 @@ Factory Blockchain Pattern to create Non-Fungible Token (NFTs) utilizing ERC-721
 
 ## Token
 
-- Is a Basic asset transfer control.
+- It is a Basic asset transfer control.
 
 ## Factory
 
