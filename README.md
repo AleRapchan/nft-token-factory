@@ -1,4 +1,4 @@
-![Logo](https://ipfs.io/ipfs/QmXjNaqAtTcaSCNgqnTRDjiQqewtXPDEdaRH97Nbuuruy1?filename=oracle-with-blockchain.png)
+![Logo](https://ipfs.io/ipfs/QmQ3HTv6cF5MEacSwufUwaHTH4YymysVop848LBRkYCiZ2?filename=nft-token-factory.png)
 
 # NFT Token (ERC721) Factory
 
