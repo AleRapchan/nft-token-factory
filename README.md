@@ -1,8 +1,8 @@
-![Logo](https://ipfs.io/ipfs/QmQ3HTv6cF5MEacSwufUwaHTH4YymysVop848LBRkYCiZ2?filename=nft-token-factory.png)
-
 # NFT Token (ERC721) Factory
 
 Factory Blockchain Pattern to create Non-Fungible Token (NFTs) utilizing ERC-721 Standards.
+
+![Logo](https://ipfs.io/ipfs/QmQ3HTv6cF5MEacSwufUwaHTH4YymysVop848LBRkYCiZ2?filename=nft-token-factory.png)
 
 ## Token
 
