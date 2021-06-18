@@ -13,6 +13,10 @@ Factory Blockchain Pattern to create Non-Fungible Token (NFTs) utilizing ERC-721
 - Generate a new smart contract
 - Often used for generating new token contracts
 
+## Identicon
+
+An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the user's privacy. The original Identicon was a 9-block graphic, and the representation has been extended to other graphic forms by third parties.
+
 ## Example
 
 ```js
@@ -51,10 +55,6 @@ test
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alerapchan)
 
-## Documentation
-
-[Full Documentation](https://rapchan.gitbook.io/green-energy-tracker/)
-
 ## Support
 
 For support, email blockchain@alexandrebarros.com or join our Slack channel.
@@ -68,6 +68,8 @@ For support, email blockchain@alexandrebarros.com or join our Slack channel.
 - React: https://reactjs.org/docs/getting-started.html
 - Solidity: https://docs.soliditylang.org/en/v0.4.24/
 - Ganache: https://www.trufflesuite.com/docs/ganache/overview
+- Identicons: https://www.npmjs.com/package/react-identicons
+- Wiki: https://en.wikipedia.org/wiki/Identicon
 
 # License
 
